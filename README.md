@@ -21,7 +21,7 @@ K210是集成机器视觉（卷积神经网络加速处理器KPU）与机器听�
 
 吴相楠
 email: wuxiangnan.wxn@alibaba-inc.com
-github id：
+github id：ethanlcz
 
 # 难度
 
